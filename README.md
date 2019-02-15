@@ -6,7 +6,7 @@ Autor: Alan Garmatter<br />
 Versão: 1.0<br />
 Descrição: Versão inicial<br /><br />
 1. Introdução<br /><br />
-Simulação desenvolvida para atender requisição de teste da WebmaniaBR® utilizando framework Bootstrap e linguagens PHP5, CSS3 e Mysql.<br/><br/>
+Simulação desenvolvida para atender requisição de teste da WebmaniaBR® utilizando framework Bootstrap e linguagens PHP5, Jquery, CSS3 e Mysql.<br/><br/>
 2. Estrutura de diretórios e subdiretórios<br /><br />
 A estrutura de diretórios e subdiretórios contendo os arquivos da ferramenta Emissor de NFse - Webmania e os arquivos, contendo o código fonte comentado, da ferramenta Emissor de NFse - Webmania, são descritos nas subseções a seguir.<br />
 <br />
