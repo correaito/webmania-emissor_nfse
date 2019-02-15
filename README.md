@@ -10,7 +10,7 @@ Descrição: Versão inicial
 
 1. Introdução
 
-Simulação desenvolvida para atender requisição de teste da WebmaniaBR® utilizando framework Bootstrap e linguagens PHP5, CSS3 e Mysql.
+Simulação desenvolvida para atender requisição de teste da WebmaniaBR® utilizando framework Bootstrap e linguagens PHP5, CSS3 e Mysql5.
 
 2. Estrutura de diretórios e subdiretórios
 
